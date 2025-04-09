@@ -9,6 +9,7 @@ Welcome to My Git Hub Profile! I am 7+ year expierenced **Project Operation Mana
 ## 🛠️ Skills & Tools
 - Good working experience of using tools Power BI and Advance excel.
 - Worked on SQL Projects also.
+- Python
 
 
 
