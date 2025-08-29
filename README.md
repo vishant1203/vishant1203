@@ -1,13 +1,13 @@
 # Hi there! 👋 I am Vishant Saini
-**Project Manager – Operations** with 8 years of experience in IT Project management, Business analysis, project planning, scheduling, and resource management in Electrification Software projects. Proven expertise in MS Project, and Power BI for project control and executive reporting. 
+**Project Manager – Operations** with 8 years of experience in IT Project management, Business analysis, project planning, scheduling and resource management in Electrification Software projects. Proven expertise in MS Project, and Power BI for project control and executive reporting. 
 
 ## 🚀About me
 - 🌱 Working as Project operation manager of electrification software projects at GE Vernova.
-- 💼 Skilled in stakeholder collaboration, project delivery, and business analysis, with a focus on aligning technology solutions to business needs.
+- 💼 Skilled in stakeholder collaboration, project delivery and business analysis with a focus on aligning technology solutions to business needs.
 - 😄 I am very impatient with my efforts, at the same time patient with results.
 
 ## 🛠️ Skills & Tools
-- KEY SKILLS:
+**Key Skills:**
 - Domain Knowledge: Power system, Electrification software projects
 - Project Management and Scheduling: Microsoft Projects (MSP) for project planning, Project charters preparation, Agile Scrum methodology
 - Business analysis: Requirements gathering, analysis and documentation, user stories definition, JIRA for sprint planning, Axure for wireframes, Microsoft Visio for activity diagrams, use case diagrams or state
